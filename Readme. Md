@@ -1,0 +1,16 @@
+# N-Queens Problem using Python
+
+This project solves the classic N-Queens problem using the backtracking algorithm.
+
+## 📌 Problem Statement
+Place N queens on an N×N chessboard such that no two queens threaten each other.
+No two queens should share the same row, column, or diagonal.
+
+## 🛠️ Technologies Used
+- Python
+- Backtracking Algorithm
+- 2D Array Representation
+
+## ▶️ How to Run
+1. Clone the repository
+2. Run the Python file:
