@@ -14,3 +14,11 @@ No two queens should share the same row, column, or diagonal.
 ## ▶️ How to Run
 1. Clone the repository
 2. Run the Python file:
+3. Enter the value of N when prompted
+
+## 📤 Output
+The program prints all valid board configurations for the given N.
+
+## 🎯 Internship Task
+Level 3 – Task 3  
+Python Development Internship at Codveda Technology
